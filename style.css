@@ -8,7 +8,7 @@ h1{
 li {
     font-size: 25px;
     background-color: beige;
-    list-style-type: none;
+    
     
 }
 img {
@@ -22,6 +22,3 @@ p {
     font-size: 25px;
 }
 
-div{
-    text-align: center;
-}
