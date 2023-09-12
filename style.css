@@ -2,19 +2,26 @@ h1{
     
     font-family: Papyrus, fantasy;
     background-color: beige;
+    
 }
 
 li {
     font-size: 25px;
     background-color: beige;
+    list-style-type: none;
     
 }
 img {
     height: auto;
     width: 500px;
     background-color: transparent;
+    
 }
 
 p {
     font-size: 25px;
+}
+
+div{
+    text-align: center;
 }
