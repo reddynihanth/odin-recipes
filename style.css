@@ -1,0 +1,16 @@
+h1{
+    
+    font-family: Papyrus, fantasy;
+    background-color: beige;
+}
+
+li {
+    font-size: 25px;
+    background-color: beige;
+    
+}
+img {
+    height: auto;
+    width: 500px;
+    background-color: transparent;
+}
