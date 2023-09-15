@@ -2,8 +2,9 @@ h1{
     
     font-family: Papyrus, fantasy;
     background-color: beige;
-    
+    padding:30px
 }
+
 
 li {
     font-size: 25px;
@@ -15,10 +16,23 @@ img {
     height: auto;
     width: 500px;
     background-color: transparent;
+    padding: 30px
     
 }
 
 p {
     font-size: 25px;
 }
+
+ul li {
+    
+        padding: 30px;
+        
+        margin-bottom: 10px;
+        
+      
+
+}
+
+
 
