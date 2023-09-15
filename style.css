@@ -9,7 +9,9 @@ h1{
 li {
     font-size: 25px;
     background-color: beige;
-    width: 500px
+    width: 500px;
+    padding: 5px;
+    margin: 2px
     
     
 }
